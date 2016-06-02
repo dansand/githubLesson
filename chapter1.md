@@ -15,6 +15,13 @@ for i in my list:
    print i
 ```
 
+```octave
+for i =1:100
+i;
+end
+   
+```
+
 
 
 
